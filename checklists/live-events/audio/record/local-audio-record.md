@@ -1,0 +1,2 @@
+- [ ] Local audio record is tested.
+  - e.g. Console sine tone output at -18dB shows up as -18 on record.

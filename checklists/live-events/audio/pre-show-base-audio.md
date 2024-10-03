@@ -1,1 +1,7 @@
-pre-show
+- [ ] All inputs PFL at the console are free of noise and distortion
+  - (e.g., GFX 1 appears at the correct input and sounds clean).
+- [ ] All outputs are heard at their locations, free of noise and distortion
+  - (e.g., signal generator sent to Left Delay speaker sounds clean; sine tone at -18 dBFS sent to the record shows up for them at -18 dBFS).
+- [ ] Every input passes to the correct output
+  - (e.g., RF mic 1 is heard in the house, on record, and in the stage monitor).
+- [ ] Console has pre-amp control of RF receivers and I/O racks.
