@@ -2,7 +2,7 @@ Here’s a draft of your **`README.md`** file for the public GitHub repo for you
 
 ---
 
-# **Nathan's Checklists Repository**
+# **Nathan's Checklists**
 
 Welcome to my personal repository of checklists! Here you'll find a variety of checklists that I use for everything from **software development** to **live event production** (and yes, even a checklist for making **hot chocolate**). These checklists have been created and refined over time to ensure nothing gets missed when tackling complex tasks.
 
