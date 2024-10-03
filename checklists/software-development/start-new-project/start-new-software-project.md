@@ -1,0 +1,10 @@
+- [ ] Start at [Vaadin](https://start.vaadin.com/) or [Spring](https://start.spring.io/)
+- [ ] Create GitHub repo.
+- [ ] Clone to local.
+- [ ] Exclude directory from pCloud drive.
+- [ ] `idea .` to open from inside project directory.
+- [ ] Check project structure for correct SDK.
+- [ ] Rename ApplicationProjectName file to Application.
+- [ ] Remove all the Vaadin SamplePerson and SQL demo stuff.
+- [ ] Run all tests.
+- [ ] Start application.
