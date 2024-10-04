@@ -25,6 +25,12 @@ We are especially interested in checklists related to:
 
 ---
 
+## **Best Practices**
+
+Good checklists are, above all, practical.
+
+---
+
 ## **License**
 
 All checklists and contributions are licensed under the [MIT License](LICENSE). This means you’re free to use these checklists for personal or professional use, with attribution. For full details, check out the [LICENSE](LICENSE) file.
