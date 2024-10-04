@@ -8,3 +8,4 @@
 - [ ] Remove all the Vaadin SamplePerson and SQL demo stuff.
 - [ ] Run all tests.
 - [ ] Start application.
+- [ ] Refactor to ports & adapters

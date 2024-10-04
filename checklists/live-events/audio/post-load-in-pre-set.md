@@ -1,0 +1,2 @@
+- [ ] Everyone is introduced by name, department, role.
+  - It's essential to force people to talk to each other. Introductions are usually enough to open the lines of communication for production discussions.
