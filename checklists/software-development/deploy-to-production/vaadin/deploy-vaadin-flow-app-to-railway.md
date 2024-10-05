@@ -1,0 +1,9 @@
+- [ ] Create Dockerfile to package in Maven and Java.
+  - Java is not a first class citizen on Railway. Currently, it supports up to Java 21.
+- [ ] Update SecurityConfiguration to expose Spring Boot Actuator Health endpoint
+  - Normal Spring Boot behavior is to expose this by default, but apparently in Vaadin you have to do it manually.
+  - [Vaadin forum post](https://vaadin.com/forum/t/how-to-expose-spring-boot-actuator-health-endpoint/167231/2)
+- [ ] Attach volume in Railway at /storage
+- [ ] Create application-railway.properties
+- [ ] Set `org.eclipse.store.storage-directory=/storage`
+  - The default is `storage`.
