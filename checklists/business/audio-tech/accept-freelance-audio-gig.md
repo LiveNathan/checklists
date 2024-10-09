@@ -1,0 +1,5 @@
+- [ ] Are there any calendar conflicts?
+  - Do not try to do two events in one day.
+  - Is the car needed/available?
+- [ ] Do not work on events where you are not on the set.
+  - This always ends up being stressful. 
