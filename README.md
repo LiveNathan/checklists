@@ -6,6 +6,8 @@ Welcome to my personal repository of checklists! Here you'll find a variety of c
 
 Checklists are powerful tools for staying organized and avoiding mistakes in high-pressure or detail-oriented situations. Whether you're working on a software project or managing the setup for a live event, a good checklist helps ensure everything runs smoothly.
 
+[![Watch the video](https://img.youtube.com/vi/JM6o-SNQRuE/maxresdefault.jpg)](https://youtu.be/JM6o-SNQRuE)
+
 ---
 
 ## **How to Use These Checklists**
